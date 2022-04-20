@@ -1,12 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 Sou estudante da  Generation Brasil.
-- 🌱 Atualmente estou  estudando Java, MySQL, JavaScript, Node.js, Angular.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 Estudante da Generation Brasil.
+- 🌱 Atualmente estou estudando Java, MySQL, JavaScript, Node.js, Angular.
 - 📫 lavinia.santos2105@gmail.com
 - 😄 Ela/Dela
-- ⚡ Fun fact: ...
--->
+
+
