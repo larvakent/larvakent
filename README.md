@@ -1,9 +1,25 @@
-### Hello World 👋
+### Olá! Me chamo Lavínia e sou Java Developer 👩🏾‍💻 
 
-
-- 🔭 Estudante da Generation Brasil.
-- 🌱 Atualmente estou estudando Java, MySQL, JavaScript, Node.js, Angular.
-- 📫 lavinia.santos2105@gmail.com
-- 😄 Ela/Dela
-
-
+<div>
+  <a href="https://github.com/larvakent">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larvakent&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/lavinia_amorims" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lavinia.santos2105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lavinia-amorim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
