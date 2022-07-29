@@ -1,4 +1,4 @@
-### Olá! Me chamo Lavínia e sou Java Developer 👩🏾‍💻 
+## Olá! Me chamo Lavínia e sou Java Developer 👩🏾‍💻 
 
 <div align="center">
   <a href="https://github.com/larvakent">
